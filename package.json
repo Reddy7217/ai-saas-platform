@@ -1,0 +1,1 @@
+{"name": "ai-saas-platform","version": "1.0.0","description": "A SaaS platform powered by AI","main": "index.js","scripts": { "test": "echo 'Error: no test specified' && exit 1" },"author": "Reddy7217","license": "ISC"}
